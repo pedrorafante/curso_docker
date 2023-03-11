@@ -1,0 +1,27 @@
+nome: "Rafante"
+idade: 30
+
+#Este objeto descreve nosso projeto - comentario
+objeto:
+  versao: 2
+  arquivo: "teste.txt"
+
+obj: {a: 1, b: 3, c: Sanfona}
+
+versao: 2
+versao_completa: 3.14
+
+string_sem_aspas: Digite aki
+texto: "este texto e valido"
+
+nulo: ~
+nulo_dois: null
+
+Verdadeiro: True #On / True
+Falso: Off # False / Off
+
+lista_1: [1,2,3,4]
+lista_2:
+  - 1
+  - Sanfona
+  - 3
